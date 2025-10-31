@@ -83,8 +83,7 @@ Você pode ajustar facilmente:
 
 ## 📚 Créditos
 
-Desenvolvido por **Charles** com base em exercícios de programação e adaptação educacional do clássico *Flappy Bird*.  
-Organizado e modularizado com apoio do ChatGPT (GPT-5).
+Desenvolvido por **Charles** com base em exercícios de programação python na hashtag treinamentos sendo uma adaptação educacional do clássico *Flappy Bird*. 
 
 ---
 
